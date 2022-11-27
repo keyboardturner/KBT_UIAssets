@@ -2,15 +2,39 @@ KBT_UI = {
 
 --Backgrounds
 BG = {
-	test = "",
+
 };
 
 --Logos, Crests, Sigils, Symbols, etc.
 LOGO = {
 	Evoker = {
-		url = "Interface\\AddOns\\KBT_UIAssets\\Assets\\LOGO\\Evoker", --1024x1024
+		url = "Interface\\AddOns\\KBT_UIAssets\\Assets\\LOGO\\Evoker",
 		width = 1024,
 		height = 1024,
+	},
+
+	HS_Bag = {
+		url = "Interface\\AddOns\\KBT_UIAssets\\Assets\\LOGO\\HS_Bag",
+		width = 512,
+		height = 512,
+	},
+
+	HS_BagHearth = {
+		url = "Interface\\AddOns\\KBT_UIAssets\\Assets\\LOGO\\HS_BagHearth",
+		width = 512,
+		height = 512,
+	},
+
+	HS_checkmark = {
+		url = "Interface\\AddOns\\KBT_UIAssets\\Assets\\LOGO\\HS_checkmark",
+		width = 256,
+		height = 256,
+	},
+
+	HS_x = {
+		url = "Interface\\AddOns\\KBT_UIAssets\\Assets\\LOGO\\HS_x",
+		width = 256,
+		height = 256,
 	},
 };
 
