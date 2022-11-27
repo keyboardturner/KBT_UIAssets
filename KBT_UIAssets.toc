@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: Keyboard's UI Assets
+## Notes: A bunch of globally accessible assets for other addons to use that are a mashup of Blizz things.
+## Author: Keyboardturner
+## Version: 0.0.1
+
+KBT_UIAssets.lua
