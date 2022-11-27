@@ -23,7 +23,7 @@ Even further, you could parse over the table info, as an example:
 
 ```lua
 for k, v in pairs(KBT_UI.LOGO) do
-  print("k: " .. k)
+  print("k: " .. k) -- the name
 end
 ```
 
@@ -39,7 +39,7 @@ Using this, you could create a list of variable names for textures. As another e
 
 ```lua
 for k, v in pairs(KBT_UI.LOGO) do
-  print("texture: " .. KBT_UI.LOGO[k]["url"]) -- the name
+  print("texture: " .. KBT_UI.LOGO[k]["url"]) -- the path
 end
 ```
 
